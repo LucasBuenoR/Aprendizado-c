@@ -8,7 +8,7 @@ int main()
     {
         if (i % 7 == 0)
         {
-            printf("%d\n", i);
+            printf("%4d ", i);
         }
     }
     return 0;
