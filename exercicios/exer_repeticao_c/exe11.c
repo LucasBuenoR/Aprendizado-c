@@ -17,7 +17,7 @@ int main()
     }
 
     // Exibir o tempo necessário
-    printf("Tempo necessario para a massa se tornar menor que 0,05 gramas: %d segundos\n", tempo);
+    printf("Tempo necessario para a massa se tornar menor que 0,05 gramas: %d segundos\n\n", tempo);
 
     return 0;
 
