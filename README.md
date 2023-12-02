@@ -1,1 +1,1 @@
-# Registro dos meus estudos na linguagem C:computer:
+# Registro dos meus estudos na linguagem C :computer:
